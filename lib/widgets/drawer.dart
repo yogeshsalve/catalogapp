@@ -10,7 +10,7 @@ class MyDrawer extends StatelessWidget {
         "https://media-exp1.licdn.com/dms/image/C4E03AQHoJ8fsgwUEXA/profile-displayphoto-shrink_200_200/0/1604329372224?e=1632960000&v=beta&t=lsaY9eqDFFbu_k_UrPLgcErXVv-5H-vSq-If4sLg6Vs";
     return Drawer(
       child: Container(
-        color: Colors.blue,
+        color: Colors.deepPurple,
         child: ListView(
           padding: EdgeInsets.zero,
           children: [
